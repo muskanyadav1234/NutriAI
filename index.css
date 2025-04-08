@@ -1,0 +1,36 @@
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background: #f3f8f2;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  
+  h1 {
+    color: #2e7d32;
+  }
+  
+  input, button {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+  }
+  
+  button {
+    background-color: #66bb6a;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #4caf50;
+  }
+  
